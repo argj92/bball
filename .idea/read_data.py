@@ -4,5 +4,5 @@ import numpy as np
 def main():
     print "fuck the lakers"
 
-if __name__ == "main":
+if __name__ == "__main__":
     main()
